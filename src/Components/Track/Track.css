@@ -1,0 +1,33 @@
+.track__wrapper {
+    background-image: linear-gradient(
+        to left,
+        #eca90c,
+        #f9c904,
+        #ffcc00,
+        #f9c904,
+        #eca90c
+    );
+    padding: 15px 30px;
+    margin-bottom: 10vh;
+    border-radius: 5px;
+    margin-top: 10vh;
+}
+.track__wrapper h6 {
+    color: black;
+    font-size: 1.1rem;
+}
+.track__field {
+    display: flex;
+}
+.track__input {
+    margin-right: 10px;
+    width: 100%;
+}
+.track__btn {
+    margin-left: 20px;
+    border: none;
+    padding: 5px 18px;
+    border-radius: 5px;
+    background: #000;
+    color: #fff;
+}

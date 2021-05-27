@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "trackId": "GP910696",
+        "status": "Pending",
+        "icon": "https://ghuriexpress.com/static/media/pending.6f92c830.png",
+        "date": "25 May 2021 11:53 AM",
+        "comment": "Parcel Added by Merchant"
+    },
+    {
+        "id": 2,
+        "trackId": "GP291022",
+        "status": "On Pick up",
+        "icon": "https://ghuriexpress.com/static/media/on_pickup.97be9294.png",
+        "date": "25 May 2021 11:53 AM",
+        "comment": "Waiting for pick up by GHURI"
+    },
+    {
+        "id": 3,
+        "trackId": "GP286116",
+        "status": "Picked Up",
+        "icon": "https://ghuriexpress.com/static/media/Pickedup.831873f9.png",
+        "date": "25 May 2021 11:53 AM",
+        "comment": "Picked Up by GHURI"
+    },
+    {
+        "id": 4,
+        "trackId": "GP516739",
+        "status": "In hub",
+        "icon": "https://ghuriexpress.com/static/media/pending.6f92c830.png",
+        "date": "25 May 2021 11:53 AM",
+        "comment": "Parcel in Ghuri Hub"
+    },
+    {
+        "id": 5,
+        "trackId": "GP516732",
+        "status": "On delivery",
+        "icon": "https://ghuriexpress.com/static/media/pending.6f92c830.png",
+        "date": "25 May 2021 11:53 AM",
+        "comment": "Delivery on Progress by GHURI"
+    },
+    {
+        "id": 6,
+        "trackId": "GP516789",
+        "status": "Return",
+        "icon": "https://ghuriexpress.com/static/media/pending.6f92c830.png",
+        "date": "25 May 2021 11:53 AM",
+        "comment": "Return To Merchant"
+    }
+]
